@@ -86,6 +86,7 @@ const SCENARIO = {
     speaker: "ここにテキスト",
     text: "ここにテキスト",
     next: "prologue_2",
+    save: true
   },
   prologue_2: {
     speaker: "ここにテキスト",
